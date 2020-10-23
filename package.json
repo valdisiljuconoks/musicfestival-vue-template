@@ -16,7 +16,7 @@
     "dependencies": {
         "axios": "^0.17.1",
         "vue": "^2.5.16",
-        "vue-router": "^3.0.1",
+        "vue-router": "^3.4.5",
         "babel-polyfill": "^6.26.0"
     },
     "-vs-binding": {
